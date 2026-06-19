@@ -111,17 +111,3 @@ Hello Jenkins!
 
 ---
 
-## 📹 YouTube Tutorial
-
-🎬 Learn the entire setup, from Maven to Jenkins pipeline, in this detailed walkthrough:  
-➡️ [YouTube: #theshubhamgour](https://www.youtube.com/@shubhamgourtech)
-
----
-
-## 🧾 License
-This project is licensed under the **MIT License** — free to use, modify, and share.
-
----
-
-> 💡 Created with ❤️ by **Shubham Gour**  
-> For DevOps tutorials, follow [#theshubhamgour](https://www.youtube.com/@shubhamgourtech)
